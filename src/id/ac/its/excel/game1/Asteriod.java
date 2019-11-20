@@ -17,7 +17,7 @@ public class Asteriod extends Sprite {
 
 
 	private void initAsteroid() {
-		loadImage("src/resources/asteroid.png"); 
+		loadImage("src/resources/aa.png"); 
         getImageDimensions();
 	}
 
